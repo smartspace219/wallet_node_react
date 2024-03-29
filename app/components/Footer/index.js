@@ -22,14 +22,14 @@ export class Footer extends React.PureComponent {
 
             <div className="footer-menu">
               <Link to="/about" className="active item">
-                About Us
+                About  Us
               </Link>
               <Link to="/terms-and-conditions">Terms And Conditions</Link>
               <Link to="/btc-price" className="item">
-                Market Cap
+                Market  Cap
               </Link>
               <Link to="/btc-converter" target="_blank">
-                Price Calculator
+                Price  Calculator
               </Link>
               <Link to="/where-to-buy" className="item">
                 Where To Buy
